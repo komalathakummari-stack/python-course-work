@@ -1,0 +1,33 @@
+1. What is Procedural Programming Language.
+   Is a programming language that solves problems using step-by-step instructions and functions/procedures.
+                          
+                                      Input → Process → Output
+
+2.What is Object Oriented Programming Language i want short.
+   Is a programming language that uses classes and objects to organize data and functions together.
+                             
+                                      Data → variables/attributes
+                                      Functions → methods/behaviors
+           
+        Main concepts of OOP.
+            
+           1.Class – Blueprint for objects
+           2.Object – Real instance of a class
+           3.Encapsulation – Hiding data for security
+           4.Inheritance – One class acquires properties of another class
+           5.Polymorphism – Same function behaves differently
+           6.Abstraction – Showing important details and hiding unnecessary details.
+
+3. What is Python ?
+     Python is a high-level, easy-to-learn programming language used for web development, data science, artificial intelligence, automation,           and software development.
+
+4.Why Python ?
+     Python is used because it is simple, easy to learn, readable, and supports many applications like web development, AI, automation, and data science.
+
+5. Differences b/w memory allocation in Procedural and Object oriented Programming Language.
+                Procedural Programming	                          	        Object-Oriented Programming
+
+	Memory is allocated to functions and variables	            Memory is allocated to objects and classes
+	Uses less memory	                                    Uses more memory
+	Data and functions are separate	                            Data and functions are combined into objects
+	Example: C Programming Language                         	Example: Java
