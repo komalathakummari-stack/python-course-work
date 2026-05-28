@@ -3,7 +3,7 @@
                           
                                       Input → Process → Output
 
-2.What is Object Oriented Programming Language i want short.
+2.What is Object Oriented Programming Language.
    Is a programming language that uses classes and objects to organize data and functions together.
                              
                                       Data → variables/attributes
